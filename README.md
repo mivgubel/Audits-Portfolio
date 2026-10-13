@@ -2,7 +2,7 @@
 
 Independent smart contract auditor from Mexico. Competitive audits on Code4rena, Sherlock and Cantina, former Nethermind security intern, and founder of [Seclat Security](https://x.com/SecLat_Security).
 
-[X](https://x.com/mike_bello90) · [LinkedIn](https://www.linkedin.com/in/miguel-angel-valdez-bello-7294a768/) · [YouTube (Seclat)](https://www.youtube.com/@SecLat) · angelcap1990@gmail.com
+[X](https://x.com/mike_bello90) · [LinkedIn](https://www.linkedin.com/in/miguel-angel-valdez-bello-7294a768/) · [YouTube (Seclat)](https://www.youtube.com/@SecLat)
 
 ## Summary
 
