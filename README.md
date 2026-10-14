@@ -57,6 +57,7 @@ Security talks at **ETH Cinco de Mayo**, **Ethereum Mexico**, and **EVVM + Flash
 
 Talks and posts (links):
 
+- https://x.com/ETHCincoDeMayo/status/2074931521719332924
 - https://x.com/SecLat_Security/status/1928130142351601925
 - https://x.com/SecLat_Security/status/1914527672052367611
 - https://x.com/mobil3_xyz/status/1988688179373961660
